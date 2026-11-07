@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:41:57.042Z",
+  "generated_at": "2026-11-07T14:22:05.761Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -146,6 +146,17 @@
       "path": "math/0133-attention-as-a-soft-dictionary-lookup",
       "first_solved_at": "2026-10-28T14:41:56.866Z",
       "last_pushed_at": "2026-10-28T14:41:56.866Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-11-07T14:22:04.376Z",
+      "last_pushed_at": "2026-11-07T14:22:04.376Z"
     }
   }
 }
