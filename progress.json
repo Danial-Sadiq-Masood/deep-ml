@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:48:51.079Z",
+  "generated_at": "2026-11-10T18:06:38.515Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -168,6 +168,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-11-10T16:55:27.610Z",
       "last_pushed_at": "2026-11-10T16:55:27.610Z"
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-11-10T18:06:37.399Z",
+      "last_pushed_at": "2026-11-10T18:06:37.399Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
